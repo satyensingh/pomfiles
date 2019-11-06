@@ -7,7 +7,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>chapter7.fares</name>
+	<name>fares</name>
 	<description>Demo project for Spring Boot</description>
 <parent>
     <groupId>org.springframework.boot</groupId>
