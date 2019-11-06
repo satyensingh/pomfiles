@@ -8,7 +8,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>chapter7.website</name>
+	<name>website</name>
 	<description>Demo project for Spring Boot</description>
 
 <parent>
