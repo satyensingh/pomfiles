@@ -6,7 +6,7 @@
 	<artifactId>config-server</artifactId>
 	<packaging>jar</packaging>
 
-	<name>chapter7.configserver</name>
+	<name>configserver</name>
 	<description>Demo project for Spring Boot</description>
 
 <parent>
